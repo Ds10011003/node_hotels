@@ -1,0 +1,9 @@
+#ignore node_modules directory
+node_modules/
+practice/
+
+
+#this file basically ignores all the files included in this file and don't add them to github repo
+#git rm -r --cached node_modules   <- how to remove node_modules after adding it to git add .
+#git config --global user.email "you@example.com"
+#git config --global user.name "Your Name"         to add the github usermail globally
