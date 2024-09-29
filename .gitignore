@@ -1,7 +1,7 @@
 #ignore node_modules directory
 node_modules/
 practice/
-
+.env
 
 #this file basically ignores all the files included in this file and don't add them to github repo
 #git rm -r --cached node_modules   <- how to remove node_modules after adding it to git add .
